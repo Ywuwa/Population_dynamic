@@ -1,6 +1,6 @@
 # Short description
 
-This is the program a mathematical model, used in paper "Modeling the Emergency and Evolution of Predation". <br>
+This is the program of a mathematical model, used in paper "Modeling the Emergency and Evolution of Predation". <br>
 To run this program you could build this project under IDE (for example CodeBlocks) or write makefile by yourself ))
 
 
@@ -9,7 +9,7 @@ To run this program you could build this project under IDE (for example CodeBloc
 **inout.cpp, inout.h** - file with input/output functionality  
 **args.cpp, args.h** - classes declaration, constructors, etc.  
 **clustering.cpp, clustering.h** - functionality, connected with populations clustering  
-**mfunctions.cpp, mfunctions.h** - **M**odel functions, general functions, used in the model
+**mfunctions.cpp, mfunctions.h** - **M**odel functions, general functions, used in the model  
 **selective_grad.cpp, selective_grad.h** - functionality, connected with selective gradient dynamics
 ## CONFIG FILES
 **model_params.txt** - file with model parameters, has to be located in the same folder as exe file (or you could modify the pass in main)  
