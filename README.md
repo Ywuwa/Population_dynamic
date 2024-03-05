@@ -1,6 +1,6 @@
 # Short description
 
-This is the program of a mathematical model, used in paper "Modeling the Emergency and Evolution of Predation". <br>
+This is the program of a mathematical model, used in paper "Modeling the Emergence and Evolution of Predation". <br>
 To run this program you could build this project under IDE (for example CodeBlocks) or write makefile by yourself ))
 
 
