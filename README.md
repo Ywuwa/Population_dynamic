@@ -17,7 +17,7 @@ To run this program you could build this project under IDE (for example CodeBloc
 **res_dir/0.txt** - initial resourse density among the domain (it is a fucntion z=f(x,y), (x,y) in [-3,3]x[-3,3] square)  
 ## PLOT FILES
 **evolution_visualization.py** - visualization for populations, you will probably have to modify the pass to the resulting files inside the program  
-**resource_dense_XD** - same but for resource density
+**resource_dense_XD** - same but for resource density <br>
 ## ADDITIONAL
-**video_res...** - resource density dynamic example
+**video_res...** - resource density dynamic example <br>
 **video_pop...** - population dynamic example
