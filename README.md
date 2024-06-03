@@ -18,3 +18,6 @@ To run this program you could build this project under IDE (for example CodeBloc
 ## PLOT FILES
 **evolution_visualization.py** - visualization for populations, you will probably have to modify the pass to the resulting files inside the program  
 **resource_dense_XD** - same but for resource density
+## ADDITIONAL
+**video_res...** - resource density dynamic example
+**video_pop...** - population dynamic example
